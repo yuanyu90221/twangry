@@ -8,7 +8,7 @@
   },
   "dependencies" : {
     "cheerio": "0.12.0",
-    "async": "0.7.0",
+    "async": "3.2.2",
     "ejs": "2.5.5",
     "director": "1.2.0",
     "request": "~2.88.2",
