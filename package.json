@@ -15,7 +15,7 @@
     "moment": "~2.29.2",
     "mime": "1.4.1",
     "mkdirp": "0.3.5",
-    "nconf": "0.6.9"
+    "nconf": "0.11.4"
   },
   "license": "GPL",
   "engines": {
